@@ -1,0 +1,47 @@
+{
+  "name": "crypto-icons-supreme",
+  "version": "1.0.0",
+  "description": "The most complete, comprehensive, and up-to-date cryptocurrency icons",
+  "main": "index.js",
+  "repository": "https://github.com/jrbgit/crypto-icons-supreme",
+  "author": "John R. Bussiculo <joanas@gmail.com.com> (https://www.jr00t.com)",
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://cryptoicons.dev",
+  "scripts": {
+		"manifest": "node scripts/manifest.js"
+	},
+	"devDependencies": {
+		"alpha-sort": "^2.0.1"
+	},
+  "files": [
+		"32x32",
+		"64x64",
+		"manifest.json"
+	],
+  "keywords": [
+    "cryptocurrency",
+    "icons",
+    "icon",
+    "crypto",
+    "currency",
+    "cryptocurrencies",
+    "currencies",
+    "symbols",
+    "svg",
+    "png",
+    "vector",
+    "color",
+    "coin",
+    "bitcoin",
+    "ethereum",
+    "flat-icons",
+    "altcoin",
+    "altcoins",
+    "icon-pack",
+    "icon-set",
+    "erc20-tokens",
+    "erc20",
+    "erc721"
+  ]
+}
