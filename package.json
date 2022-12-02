@@ -2,7 +2,6 @@
   "name": "@jrbgit/crypto-icons",
   "version": "1.0.0",
   "description": "The most complete, comprehensive, and up-to-date cryptocurrency icons",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jrbgit/crypto-icons.git"
@@ -18,9 +17,10 @@
     "husky": "^1.3.1"
   },
   "files": [
-    "32x32",
-    "64x64",
-    "manifest.json"
+    "coins",
+    "exchanges",
+    "manifest-coins.json",
+    "mainfest-exchanges.json"
   ],
   "keywords": [
     "cryptocurrency",
