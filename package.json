@@ -9,7 +9,6 @@
   },
   "author": "John R. Bussiculo <joanas@gmail.com.com> (https://www.jr00t.com)",
   "license": "MIT",
-  "private": true,
   "homepage": "https://cryptoicons.dev",
   "scripts": {
     "manifest": "node scripts/manifest.js"
