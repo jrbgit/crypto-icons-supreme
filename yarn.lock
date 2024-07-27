@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-alpha-sort@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/alpha-sort/-/alpha-sort-2.0.1.tgz#50d3538947cf70ebcc15a6b461fb04fff3bf1ed9"
-  integrity sha512-+ywJRo+J0Z5qFGoODbzp/hxUZhumuFjS8hPRv5vaPPMwEbW35xPhICNr3DhPJkgiRCW94iG33hOOCO/SV5F60g==
+alpha-sort@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/alpha-sort/-/alpha-sort-5.0.0.tgz#83dceebaf1c838eb45e75c03b45d0d1f53724f8c"
+  integrity sha512-ObQ58fJyEEYr7n91itdT/N4LYmg6H/HehNHIvsTL9byMLYf3acJaLpvc+/KnvNDQVX5LmACETJAtWLXA9GUTmw==
 
 argparse@^1.0.7:
   version "1.0.10"
